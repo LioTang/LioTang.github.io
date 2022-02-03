@@ -4,16 +4,29 @@
 }
 
 .projectsdiv {
-    height:500px;
-    width:700px;
+    height: 500px;
+    width: 750px;
     border: solid 5px;
-    margin:0px auto 0px auto;
-    padding: 3px 0px 100px 0px;
+    margin: 0px auto 0px auto;
+    padding: 0px 0px 100px 0px;
     text-align: center;
     overflow-y: auto;
 }
+
 .pro1 {
-    box-sizing: border-box;
-    border: solid #5B6DCD 10px;
-    padding: 5px 100px 5px 5px;
+    box-sizing: content-box;
+    border: solid #5B6DCD 5px;
+    padding: 5px 0px 0px 0px;
+    width: 650px;
+    margin: auto;
+}
+
+.pro1text {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px auto 0px auto;
+}
+
+.pro1img {
+    padding: 0px 0px 0px 20px;
 }
