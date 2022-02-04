@@ -2,7 +2,6 @@
     display: inline-block;
     vertical-align: top;
 }
-
 .projectsdiv {
     height: 500px;
     width: 750px;
@@ -12,7 +11,6 @@
     text-align: center;
     overflow-y: auto;
 }
-
 .pro1 {
     box-sizing: content-box;
     border: solid #5B6DCD 5px;
@@ -20,13 +18,11 @@
     width: 650px;
     margin: auto;
 }
-
 .pro1text {
     display: inline-block;
     vertical-align: top;
     margin: 0px auto 0px auto;
 }
-
 .pro1img {
     padding: 0px 0px 0px 20px;
 }
