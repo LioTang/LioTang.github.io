@@ -1,13 +1,14 @@
 body {
-    background-color:#21FFE4;
+    background-color: #21FFE4;
 }
 
 .about {
     display: inline-block;
     vertical-align: top;
 }
+
 .projectsdiv {
-    background-color:#FFFFFF;
+    background-color: #FFFFFF;
     height: 500px;
     width: 750px;
     border: solid 5px;
@@ -16,18 +17,21 @@ body {
     text-align: center;
     overflow-y: auto;
 }
-.pro1 {
+
+.pro {
     box-sizing: content-box;
     border: solid #5B6DCD 5px;
     padding: 5px 0px 0px 0px;
     width: 650px;
-    margin: auto;
+    margin: 0px auto 20px auto;
 }
-.pro1text {
+
+.protext {
     display: inline-block;
     vertical-align: top;
     margin: 0px auto 0px auto;
 }
-.pro1img {
+
+.proimg {
     padding: 0px 0px 0px 20px;
 }
