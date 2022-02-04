@@ -1,8 +1,13 @@
+body {
+    background-color:#21FFE4;
+}
+
 .about {
     display: inline-block;
     vertical-align: top;
 }
 .projectsdiv {
+    background-color:#FFFFFF;
     height: 500px;
     width: 750px;
     border: solid 5px;
