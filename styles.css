@@ -6,7 +6,10 @@ body {
     display: inline-block;
     vertical-align: top;
 }
-
+.pfp{
+    border-radius:50%;
+    height:300px;
+}
 .projectsdiv {
     background-color: #FFFFFF;
     height: 500px;
