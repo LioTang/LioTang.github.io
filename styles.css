@@ -2,14 +2,21 @@ body {
     background-color: #21FFE4;
 }
 
+.pfp {
+    border-radius: 50%;
+    height: 300px;
+    display: flex;
+    margin: 0px auto;
+}
+
 .about {
-    display: inline-block;
-    vertical-align: top;
+    text-align: center;
 }
-.pfp{
-    border-radius:50%;
-    height:300px;
+
+.head {
+    text-align: center;
 }
+
 .projectsdiv {
     background-color: #FFFFFF;
     height: 500px;
@@ -37,5 +44,5 @@ body {
 
 .proimg {
     padding: 0px 0px 0px 20px;
-    height:300px;
+    height: 300px;
 }
