@@ -1,5 +1,5 @@
 body {
-    background-color: #21FFE4;
+    background-color: #000000;
 }
 
 .pfp {
@@ -11,12 +11,16 @@ body {
 
 .about {
     text-align: center;
+    color:#FFFFFF;
 }
 
 .head {
     text-align: center;
+    color:#FFFFFF;
 }
-
+.contact {
+    color:#FFFFFF;
+}
 .projectsdiv {
     background-color: #FFFFFF;
     height: 500px;
